@@ -1,16 +1,66 @@
-# React + Vite
+🌐 Personal Portfolio – Saurabh Singh
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👨‍💻 About Me
 
-Currently, two official plugins are available:
+Hello! I'm Saurabh Singh, a Computer Science Engineering graduate and aspiring Python Full Stack Developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I am passionate about web development, problem-solving, and building practical applications. I enjoy learning new technologies and transforming ideas into real-world projects.
 
-## React Compiler
+Currently, I am enhancing my skills in Python Full Stack Development.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 About This Project
 
-## Expanding the ESLint configuration
+This is my personal portfolio website, developed to showcase my technical skills, projects, educational background, and professional journey.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+It provides a simple and interactive way to explore my work and learn more about me.
+
+✨ Features
+
+- Personal introduction and profile.
+- Technical skills and technologies.
+- Educational background.
+- Project showcase with descriptions.
+- Contact information.
+- Responsive user interface.
+
+🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+📂 Featured Projects
+
+1. Vehicle Rental Platform
+A web-based platform connecting vehicle owners with people looking to rent vehicles.
+
+2. E-Waste Recycler
+A platform promoting responsible electronic waste management through technology.
+
+3. File Sharing Application
+A platform designed to simplify file sharing between users.
+
+🎓 Education
+
+**B.Tech – Computer Science Engineering**
+Gyan Ganga Institute of Technology and Science, Jabalpur  
+2022 – 2026
+
+💡 Technical Skills
+
+- Programming: Python, C++
+- Frontend: HTML, CSS, JavaScript
+- Backend: Django, Django REST Framework, FastAPI
+- Database: MySQL, PostgreSQL
+- Tools: Git, GitHub, VS Code
+
+📬 Contact Me
+
+- **Email** : saurabh.singh.cse.in@gmail.com
+- GitHub: https://github.com/Saurabh-Singh-CS
+- LinkedIn: www.linkedin.com/in/saurabh-singh-pythondev
+
+
+⭐ Thank you for visiting my portfolio!
+
+I'm always interested in learning, collaborating, and exploring new opportunities.
